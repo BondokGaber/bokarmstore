@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "360299753546",
+    "project_id": "bokaramstore",
+    "storage_bucket": "bokaramstore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360299753546:android:be567556c80e70f107f6b3",
+        "android_client_info": {
+          "package_name": "com.nram.bokaramstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360299753546-c6vlshv5htnurrs9mg1p65a2saml5aav.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nram.bokaramstore",
+            "certificate_hash": "8eb9a80ee2fec0fb2aca12bfb1874e8e5f80cbe0"
+          }
+        },
+        {
+          "client_id": "360299753546-q4uamr3gkeg46cm34n1puhqru6epsnm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGhtqSFMK56H4Y_rt-zHf_dhim3qAfYdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360299753546-q4uamr3gkeg46cm34n1puhqru6epsnm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
